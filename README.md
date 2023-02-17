@@ -27,7 +27,7 @@ has have had go
 
 **solution**
 
-*solution3.l*
+*solution3.c*
 
 ## Part 3
 
@@ -37,7 +37,7 @@ consist of a set of mutually recursive routines.
 
 **solution**
 
-*solution4.l*
+*solution4.c*
 ## Part 4
 - Using the following grammar
 > S -> a S | b
@@ -47,7 +47,7 @@ input string.
 
 **solution**
 
-*solution5.l*
+*solution5.c*
 ## Part 5
 
 - Write a LEX and YACC specification files for a small calculator that can add and 
@@ -55,8 +55,8 @@ subtract numbers.
 
 **solution**
 
-*solution6.l*
+*solution6.c*
 
  contains **CFG**
 
- *solution6b.l*
+ *solution6b.c*
